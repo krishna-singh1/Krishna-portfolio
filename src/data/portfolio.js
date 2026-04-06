@@ -174,3 +174,7 @@ export const education = {
   location: "Phagwara, Punjab",
   year: "2019",
 };
+
+// Updated for deployment
+
+
